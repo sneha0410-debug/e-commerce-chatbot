@@ -27,3 +27,7 @@ The backend is built using Python (Flask), and the frontend is developed using H
   ```bash
   pip install -r requirements.txt
 
+#### Output :
+  ![Output Sample Screenshot](output.png)
+
+
